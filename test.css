@@ -1,0 +1,70 @@
+body {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    background-image: url('https://img.freepik.com/premium-photo/natural-texture-winter-ice-blue-ice-as-background_117930-805.jpg?w=2000');
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.navigation {
+    box-sizing: border-box;
+    background-color: burlywood;
+    position: absolute;
+    width: 100%;
+    opacity: 0.85;
+    text-align: center;
+}
+
+.navigation li {
+    font-weight: 150;
+    color: teal;
+    text-align: center;
+    margin: 0 auto;
+    box-sizing: border-box;
+    display: inline-block;
+}
+
+.navigation li {
+    margin: 0  auto;
+    width: 150px;
+}
+
+#banner {
+    background-image: url('https://cdn.sortiraparis.com/images/80/1462/505096-la-patinoire-pailleron-pour-patiner-toute-l-annee.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 300px;
+    box-sizing: border-box;
+    margin: 0 auto;
+}
+
+#banner .enseigne h1 {
+    text-align: center;
+    color: darkgoldenrod;
+    width: 300px;
+    box-sizing: border-box;
+    border: 5px solid royalblue;
+    margin: 0 auto;
+    position: relative;
+    top: 75px;
+    font-size: 40px;
+    border-radius: 50px;
+    letter-spacing: 3px;
+}
+
+.list {
+    width: 350px;
+    margin: 0px auto;
+}
+
+.list li {
+    padding-top: 10px;
+}
+
+.navigation a:hover {
+    color: cyan;
+}
+
+.navigation a {
+    color: darkcyan;
+}
