@@ -52,6 +52,14 @@ body {
     letter-spacing: 3px;
 }
 
+#banner a {
+    color: darkgoldenrod;
+}
+
+#banner h1 :hover {
+    color: goldenrod;
+}
+
 .list {
     width: 350px;
     margin: 0px auto;
