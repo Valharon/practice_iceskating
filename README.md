@@ -5,5 +5,5 @@
 My first Git repository where I try to learn as much basic stuff as possible to be able to understand how to correctly use **Git/Github**.
 Mostly using *HTML/CSS* but I'll probably try and put some *Javascript* as I explore the possibilities.
 
-project on hold for the moment
-=============================
+this project is my own and mine only
+===================================
