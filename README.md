@@ -6,4 +6,4 @@ My first Git repository where I try to learn as much basic stuff as possible to 
 Mostly using *HTML/CSS* but I'll probably try and put some *Javascript* as I explore the possibilities.
 
 this project is my own and mine only
-===================================
+-----------------------------------
