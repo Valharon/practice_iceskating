@@ -9,7 +9,7 @@ body {
 .navigation {
     box-sizing: border-box;
     background-color: burlywood;
-    position: absolute;
+    position: fixed;
     width: 100%;
     opacity: 0.85;
     text-align: center;
