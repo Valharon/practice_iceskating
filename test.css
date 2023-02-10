@@ -66,7 +66,7 @@ body {
 }
 
 .list li {
-    padding-top: 10px;
+    padding-top: 20px;
 }
 
 .navigation a:hover {
@@ -76,3 +76,32 @@ body {
 .navigation a {
     color: darkcyan;
 }
+
+.catchphrase {
+    font-family: Helvetica;
+    color: indianred;
+}
+
+.footer-basic {
+    padding:40px 0;
+}
+
+.footer-basic ul {
+    padding:0;
+    list-style:none;
+    text-align:center;
+    font-size:18px;
+    line-height:1.6;
+    margin-bottom:0;
+  }
+
+  .footer-basic li {
+    padding:0 10px;
+  }
+  
+  footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+  }
