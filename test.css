@@ -3,7 +3,7 @@ body {
     padding: 0;
     text-align: center;
     background-image: url('https://img.freepik.com/premium-photo/natural-texture-winter-ice-blue-ice-as-background_117930-805.jpg?w=2000');
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 .navigation {
@@ -13,6 +13,7 @@ body {
     width: 100%;
     opacity: 0.85;
     text-align: center;
+    z-index: 1;
 }
 
 .navigation li {
@@ -54,6 +55,7 @@ body {
 
 #banner a {
     color: darkgoldenrod;
+    text-decoration: none;
 }
 
 #banner h1 :hover {
@@ -75,6 +77,7 @@ body {
 
 .navigation a {
     color: darkcyan;
+    text-decoration: none;
 }
 
 .catchphrase {
@@ -90,15 +93,17 @@ body {
     padding:0;
     list-style:none;
     text-align:center;
-    font-size:18px;
+    font-size: 20px;
     line-height:1.6;
     margin-bottom:0;
+    margin-top: 10px;
   }
 
   .footer-basic li {
-    padding:0 10px;
+    padding:0 50px;
     overflow: auto;
-    display: inline;
+    display: inline-block;
+    text-align: center;
   }
   
   footer {
@@ -106,4 +111,20 @@ body {
     left: 0;
     bottom: 0;
     width: 100%;
+    background-color: cornflowerblue;
+  }
+
+  .footer-basic a:hover {
+    color: chartreuse;
+  }
+
+  .footer-basic a {
+    color: green;
+  }
+
+  .wikipedia {
+    width: 40%;
+    text-align: center;
+    padding-left: 30%;
+    padding-bottom: 45px;
   }
