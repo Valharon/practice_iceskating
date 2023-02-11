@@ -130,3 +130,16 @@ body {
     padding-left: 30%;
     padding-bottom: 45px;
   }
+
+  #schedule h3 {
+    text-decoration: underline;
+    padding: 50px 0;
+  }
+
+  #schedule li {
+    text-align: left;
+    width: 350px;
+    margin: 0px auto;
+    list-style: none;
+    padding-top: 10px;
+  }
