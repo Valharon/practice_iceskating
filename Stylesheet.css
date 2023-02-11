@@ -65,10 +65,12 @@ body {
 .list {
     width: 350px;
     margin: 0px auto;
+    text-align: center;
 }
 
 .list li {
     padding-top: 20px;
+    text-align: left;
 }
 
 .navigation a:hover {
